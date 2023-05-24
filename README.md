@@ -36,6 +36,9 @@ If EmoTunes brings joy to your musical exploration, don't hesitate to share it w
 
 Thank you for choosing EmoTunes, and may your musical journey be filled with emotions and melodies that inspire and uplift you!
 
+# NOTE:-
+    Spotify is required to play music please install Spotify first and launch the app
+
 # screenshots
 
 <img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/dac24fb1-081f-4e04-8f48-66f4870b36b1" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
