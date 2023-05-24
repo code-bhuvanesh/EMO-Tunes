@@ -38,5 +38,5 @@ Thank you for choosing EmoTunes, and may your musical journey be filled with emo
 
 # screenshots
 
-<img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/28670b66-a675-41b6-902f-d685bae28607" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
+<img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/dac24fb1-081f-4e04-8f48-66f4870b36b1" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
 <img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/4c55d532-6601-4da3-acbd-1bae0ddc0828" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
