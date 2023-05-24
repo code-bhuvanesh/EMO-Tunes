@@ -11,5 +11,5 @@ user can even add thier own playlist for thier each emotional state and the song
 #screenshots
 
 
-![home_page](https://github.com/code-bhuvanesh/MusicRecomendation/assets/90144561/28670b66-a675-41b6-902f-d685bae28607 | width=300 | height=700)![playlist_page](https://github.com/code-bhuvanesh/MusicRecomendation/assets/90144561/4c55d532-6601-4da3-acbd-1bae0ddc0828 | width=300 | height=700)
+![home_page](https://github.com/code-bhuvanesh/MusicRecomendation/assets/90144561/28670b66-a675-41b6-902f-d685bae28607 | width=300) ![playlist_page](https://github.com/code-bhuvanesh/MusicRecomendation/assets/90144561/4c55d532-6601-4da3-acbd-1bae0ddc0828 | width=300 | height=700)
 
