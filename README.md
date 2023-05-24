@@ -1,6 +1,6 @@
 # EmoTunes: Find Your Emotion-Driven Playlist
 
-Welcome to EmoTunes, an incredible music app that allows you to discover and enjoy songs based on your current facial emotions. Developed by a passionate individual, EmoTunes brings a personalized and immersive musical experience to your fingertips.
+Welcome to EmoTunes, an incredible music app that allows you to discover and enjoy songs based on your current facial emotions. EmoTunes brings a personalized and immersive musical experience to your fingertips.
 
 ## Features
 
