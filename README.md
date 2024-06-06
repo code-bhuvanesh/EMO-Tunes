@@ -12,6 +12,11 @@ Welcome to EmoTunes, an incredible music app that allows you to discover and enj
 
 - **User-Friendly Interface**: EmoTunes prides itself on its sleek and user-friendly interface. With a minimalist design, the app ensures a seamless and immersive experience, keeping the focus on the emotions and melodies that matter most to you.
 
+  # screenshots
+
+<img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/dac24fb1-081f-4e04-8f48-66f4870b36b1" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
+<img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/5fbaf3fa-8038-444d-94f0-c376f25540aa" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
+
 ## Get Started
 
 Ready to dive into your emotional music journey? Follow these simple steps to get started with EmoTunes:
@@ -39,8 +44,5 @@ Thank you for choosing EmoTunes, and may your musical journey be filled with emo
 # NOTE:-
    Spotify is required to play music please install Spotify first and launch the app
 
-# screenshots
 
-<img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/dac24fb1-081f-4e04-8f48-66f4870b36b1" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
-<img src="https://github.com/code-bhuvanesh/EMO-Tunes/assets/90144561/5fbaf3fa-8038-444d-94f0-c376f25540aa" alt="screenshot" width="300" height="700" style=" margin-right: 20px;">
 
